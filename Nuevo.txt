@@ -1,0 +1,9 @@
+#Una pequeña platica
+#txt creado con a(append mode)
+Hola mi nombre es Maria 
+Tengo 24 años 
+¿como te llamas?
+Hola mi nombre es Camila
+y tengo 24 a�os #python no detecta la ñ
+Hola mi nombre es Camila
+y tengo 24 a�os
